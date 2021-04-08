@@ -1,4 +1,4 @@
-from Piece import *
+from Piece import Piece
 class Player:
     def __init__(self,name,color,turn=True):
         self.turn = turn

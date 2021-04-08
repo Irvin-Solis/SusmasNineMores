@@ -1,5 +1,6 @@
-from Player import *
-from Piece import *
+from Player import Player
+from Piece import Piece
+
 conversionTable={'g1':(0,0),'g4':(0,3),'g7':(0,6),
                  'f2':(1,1),'f4':(1,3),'f6':(1,5),
                  'e3':(2,2),'e4':(2,3),'e5':(2,4),
